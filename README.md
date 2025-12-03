@@ -2,6 +2,14 @@
 
 This project automates personalized Gmail draft creation by detecting updated HubSpot deal notes through scheduled polling and webhook calls. Using GPT-4o-mini, it generates professional outreach emails based on deal updates and saves them as Gmail drafts for manual review or sending.
 
+![Pic 1](./Pic1.png)
+![Pic 2](./Pic2.png)
+![Pic 3](./Pic3.png)
+![Pic 4](./Pic4.png)
+![Pic 5](./Pic5.png)
+![Pic 6](./Pic6.png)
+![Pic 7](./Pic7.png)
+
 ## 🔧 Project Scope
 - Detect updated HubSpot deal notes via scheduled polling.
 - Retrieve note, deal, contact, and owner information through webhooks.
