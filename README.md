@@ -9,6 +9,8 @@ This project automates personalized Gmail draft creation by detecting updated Hu
 ![Pic 5](./Pic5.png)
 ![Pic 6](./Pic6.png)
 ![Pic 7](./Pic7.png)
+![Pic 8](./Pic8.png)
+
 
 ## 🔧 Project Scope
 - Detect updated HubSpot deal notes via scheduled polling.
